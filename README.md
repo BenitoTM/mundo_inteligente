@@ -5,6 +5,7 @@ para utilizar, rode no terminal:
 
 pip install pygame==2.6.1
 
+Para rodar, rode python main.py no terminal, ou usando alguma ide, rode o arquivo main.py.
 
 O algoritmo funciona da seguinte forma:
 - Individuos herbivoros sao representados por circulos azuis.
